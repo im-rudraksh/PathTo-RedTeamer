@@ -1,4 +1,4 @@
-<img width="1308" height="816" alt="image" src="https://github.com/user-attachments/assets/8ff10c93-cdfe-41f6-9415-1dcfe8464142" /># Day 01 — Linux Fundamentals Part 1
+# Day 01 — Linux Fundamentals Part 1
 **Date:** 30/03/2026  
 **Source:** TryHackMe — Linux Fundamentals Part 1  
 **Status:** Completed ✅
