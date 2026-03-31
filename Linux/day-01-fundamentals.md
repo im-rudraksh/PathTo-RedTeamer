@@ -1,4 +1,4 @@
-# Day 01 — Linux Fundamentals Part 1
+<img width="1308" height="816" alt="image" src="https://github.com/user-attachments/assets/8ff10c93-cdfe-41f6-9415-1dcfe8464142" /># Day 01 — Linux Fundamentals Part 1
 **Date:** 30/03/2026  
 **Source:** TryHackMe — Linux Fundamentals Part 1  
 **Status:** Completed ✅
@@ -14,7 +14,7 @@
 ---
 
 ## Commands learned
-
+```
 Today marks the beginning of the becoming a red teamer from a beginner (30/03/2026)
 DAY -->1 (LINUX FUNDAMENTALS)
 	|--> I am currently using TRYHACKME.COM's Linux fundamental path
@@ -72,4 +72,4 @@ DAY -->1 (LINUX FUNDAMENTALS)
 	  |      |    $ echo hello > welcome.txt        //--(creates a file named welcome.txt and if exist then replaces the content from start of the docx)
 	  |      |-> ">>" same as redirector but it appends the data instead of replacing 
 	  |      |    $ echo hello again >> elcome.txt
-
+```
