@@ -41,7 +41,7 @@ Level 21->22 Learnt about cron : a job scheduler that runs a cmd repetitively in
 
 Level 22->23  found a cron file 'cd' the cron folder 'cat' the cron file, found a script, 'cat' the script 
 		found that it uses a cmd with md5sum and cut the whitespaces to name the file it saves the password temporarily.
-		used the cmd outside with the name of next level that the script is saving the file as 
+		used the cmd outside with the name of next level (because the script is being used for the next level) that the script is saving the file as 
 		'cat' the file using path and found the password
 
 ```
