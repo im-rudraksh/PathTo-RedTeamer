@@ -33,7 +33,7 @@ DAY -->1 (LINUX FUNDAMENTALS)
 	  |      $ pwd 
  	  |
 	  |--> 4) "find" used to find a file(s)/folder(s) i.e. there path starting search from root directory
- 	  |       $ find -name "file_name.txt"          //-- here -name is a sub cmd of find that specifies to find file using name ,the name of file is in brackets
+ 	  |       $ find -name "file_name.txt"          //-- here -name is a sub cmd of find that specifies to find file using name ,the name of file is in qutoes.
 	  |       $ find -iname "example.txt"           //-- helps find file name case insensitive i.e. example.txt ,Example.txt, EXAMPLE.txt can be find with this
 	  |       $ find -name *.txt                    //--(don't use quotes) * is a wildcard here its used to find any file with .txt extension in the directory and sub directories
 	  |	  $ find /path/to/find -name "example.txt" //---to find along a specified path
