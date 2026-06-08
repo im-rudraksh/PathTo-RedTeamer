@@ -28,12 +28,12 @@ DAY -->1 (LINUX FUNDAMENTALS)
 	  |--> 2) "ls" listing is used to list the content of the folder onto the terminal ,
 	  |   |--> $ ls -l    //for long list (file permission ,owner , group ,size and modification date
 	  |   |--> $ ls -a    //shows hidden files as well
-	  |
+	  |   |--> $ ls -la    //long and hidden list 
 	  |--> 3) "pwd" print working directory --prints the path of current working directory
 	  |      $ pwd 
  	  |
 	  |--> 4) "find" used to find a file(s)/folder(s) i.e. there path starting search from root directory
- 	  |       $ find -name "file_name.txt"          //-- here -name is a sub cmd of find that specifies to find file using name ,the name of file is in qutoes.
+ 	  |       $ find -name "file_name.txt"          //-- here -name is a sub cmd of find that specifies to find file using name ,the name of file is in quotes.
 	  |       $ find -iname "example.txt"           //-- helps find file name case insensitive i.e. example.txt ,Example.txt, EXAMPLE.txt can be find with this
 	  |       $ find -name *.txt                    //--(don't use quotes) * is a wildcard here its used to find any file with .txt extension in the directory and sub directories
 	  |	  $ find /path/to/find -name "example.txt" //---to find along a specified path
@@ -48,7 +48,7 @@ DAY -->1 (LINUX FUNDAMENTALS)
   	  |       $ grep "pattern" filename.txt               //--- pattern always in quotes 
       |       $ grep "^pattern" filename.txt              //-- searches lines staring with the pattern
       |	  $ grep "pattern$" filename.txt                  //-- searches lines tha end with the pattern
-	  |       $ grep /path/to/find/ "paatt' filename.txt  //--searching in a specified path
+	  |       $ grep /path/to/find/ "patt" filename.txt   //--searching in a specified path
 	  |       $ grep -i "pattern" filename.txt            //-- searches pattern with case insensitive 
 	  |       $ grep -r "pattern" filename.txt            //-- searches pattern in the files of current directory as well as sub directories
       |       $ grep -v "pattern" filename.txt            //-- (invert match) send lines that do not match with pattern 
@@ -57,7 +57,7 @@ DAY -->1 (LINUX FUNDAMENTALS)
 	  |       $ grep -w "pattern" filename.txt            //-- searches exact words avoids long words
 	  |       $ grep -l "pattern" filename.txt            //-- searches pattern and return only the file name that contains that pattern
 	  |
-	  |--> 7) "wc" word count --returns (number of lines , number of words ,number of bytes , filename) in a file in this respective order
+	  |--> 7) "wc" word count returns (number of lines , number of words ,number of bytes , filename) in a file in this respective order
 	  |       $ wc filename 
 	  |       $ wc -l filename              //-- "-l"for only number of lines ,"-w" for only number of words ,"-c" only number of bytes ,"-m" for number of charcters--//
  	  |--> 8) "echo" types anything after it ,will be printed exactly in the terminal
