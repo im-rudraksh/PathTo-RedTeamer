@@ -8,7 +8,7 @@ Every entry reflects something I've actually learned and practiced.
 ------------------------------------------------------------------------
 
 ## Quick Highlights
-
+#### Phase 1 
 -   Completed OverTheWire Bandit (Level 0-33)
 -   10+ documented learning entries
 -   Strong focus on Linux, Bash, and fundamentals
@@ -28,7 +28,7 @@ Every entry reflects something I've actually learned and practiced.
 ## Progress
 
 ### Completed
-
+#### Phase 1
 -   OverTheWire Bandit (Level 0--33)            
 -   TryHackMe --- Linux Fundamentals Part 1      
 -   Linux + Bash fundamentals
@@ -48,15 +48,16 @@ Every entry reflects something I've actually learned and practiced.
 
 **Can be found here** 
 ```
-Linux/
-├── day-01-fundamentals.md 
-├── ... 
+Phase1/Linux/
+       ├── day-01-fundamentals.md 
+       ├── ... 
 ```
 
 ---------------------------------------------------------------
 
 ### Currently Working On
 
+-   OverTheWire   Leviathan
 -   Bash scripting (loops, conditionals, functions)
 -   Filling Linux gaps (awk, sed, ps, netstat, tcpdump)
 -   Strengthening command-line workflow
@@ -73,10 +74,10 @@ Linux/
 ------------------------------------------------------------------------
 
 ## Timeline
-- Started April 2026
+#### Phase 1 : month 1-2
 - First 3 weeks: Linux + Bash fundamentals, reinforced through OverTheWire (hands-on exploitation)
 
-- Currently: ongoing
+- Currently: continuing with phase 1
 -----------------------------------------------------------------------
 ## Hardware / Lab Setup
 
