@@ -26,10 +26,10 @@ Today I used wargames to learn Linux used to and completed till level3-level4
 	|--> Level1-Level2
 	|  Used cmds ls, cd ,cat and find
 	|    |->$ ssh -p 2220 bandit2@bandit.labs.overthewire.org   //-- to connect 
-	|    |-> Learnt that to read or find files with names starting with "-" (quotes not included) u need to specify the whole path or . which represents  current directory 
-	|    |  also u can use -- after a cmd like cat (represents that all parameters like -p or -a will not be used after this
+	|    |-> Learnt that to read or find files with names starting with "-" (quotes not included) u need to specify the whole path or "." which represents  current directory 
+	|    |  also u can use "--" after a cmd like cat (represents that all parameters like -p or -a will not be used after this
 	|    |  hench found the password to next level
-	|    |->$ exit                                             //--to exit
+	|    |->$ exit                                             //-- to exit
 	|
 	|--> Level2-Level3
 	|  Used cmds ls, cat
