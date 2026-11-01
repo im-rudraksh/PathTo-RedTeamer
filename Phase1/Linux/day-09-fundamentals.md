@@ -1,4 +1,4 @@
-# Day XX — Bandit Wargame Levels 25–27
+# Day 09 — Bandit Wargame Levels 25–27
 
 | Field   | Details                            |
 |---------|------------------------------------|
