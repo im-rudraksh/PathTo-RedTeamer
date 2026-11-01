@@ -2,9 +2,9 @@
 
 | Field   | Details                            |
 |---------|------------------------------------|
-| Date    | __ / __ / ____                     |
+| Date    | 15 / 04 / 2026                     |
 | Source  | bandit.labs.overthewire.org        |
-| Status  | Completed ✅                        |
+| Status  | Completed ✅                      |
 
 ---
 
@@ -34,7 +34,7 @@ To force more into interactive mode u have to resize the terminal into a very sm
 ```
 
 ---
-## AI Generated 
+
 
 ### Level 25 → Level 26
 
